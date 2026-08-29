@@ -1,4 +1,3 @@
-
 {
   "name": "student-management-api",
   "version": "1.0.0",
@@ -15,4 +14,3 @@
     "express": "^5.2.1"
   }
 }
-```
